@@ -16,5 +16,6 @@ public class StringUtil {
         }else if(s.equals("")){
             System.out.println("s is \"\"");
         }
+        System.out.println("first modify");
     }
 }
