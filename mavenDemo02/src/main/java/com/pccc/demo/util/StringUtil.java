@@ -17,5 +17,6 @@ public class StringUtil {
             System.out.println("s is \"\"");
         }
         System.out.println("first modify");
+        System.out.println("dev first modify");
     }
 }
