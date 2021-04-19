@@ -1,6 +1,8 @@
 package com.pccc.demo.controller;
 
 import com.pccc.demo.util.RedisUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -13,6 +15,7 @@ import java.util.concurrent.TimeUnit;
  */
 @RestController
 public class RedisController {
+    Logger logger = LoggerFactory.getLogger(RedisController.class);
     @Autowired
     private RedisUtils redisUtils;
 
