@@ -1,0 +1,27 @@
+#server:
+#  port: 8081
+#spring:
+#  profiles:
+#    active: prod
+#---
+#server:
+#  port: 8089
+#spring:
+#  profiles: dev
+#---
+#server:
+#  port: 9010
+##person:
+##  lastName: hello
+##  age: 18
+##  boss: false
+##  birthday: 2000/01/01
+##  map: {aa:aa,bb:bb}
+##  list:
+##    - lisi
+##    - zhangsan
+##  dog:
+##    name: 狗子
+##    age: 3
+#spring:
+#  profiles: prod

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50a2320f-57c9-4801-9daa-277c375fba65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cMBn1nIAe55hj08XtnYdZub8lh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.BufferedIo">
+    <configuration name="BufferedIo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pccc.io.BufferedIo" />
+      <module name="demo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pccc.demo.Client" />
+      <module name="demo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Out" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pccc.io.Out" />
+      <module name="demo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pccc.io.TCPClient" />
+      <module name="demo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pccc.io.TCPServer" />
+      <module name="demo12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BufferedIo" />
+        <item itemvalue="Application.Out" />
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a2320f-57c9-4801-9daa-277c375fba65" name="Default Changelist" comment="" />
+      <created>1590328744268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590328744268</updated>
+      <workItem from="1590328751217" duration="26574000" />
+      <workItem from="1591239271760" duration="452000" />
+      <workItem from="1591770293359" duration="623000" />
+      <workItem from="1592753411242" duration="19000" />
+      <workItem from="1592918633450" duration="1418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1591026529647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591026529647" />
+    <state x="813" y="53" key="FileChooserDialogImpl" timestamp="1591239712913">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="813" y="53" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591239712913" />
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom" timestamp="1593047511018">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593047511018" />
+    <state width="1237" height="146" key="GridCell.Tab.0.center" timestamp="1593047511016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593047511016" />
+    <state width="1237" height="146" key="GridCell.Tab.0.left" timestamp="1593047511016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593047511016" />
+    <state width="1237" height="146" key="GridCell.Tab.0.right" timestamp="1593047511017">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="146" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593047511017" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591239278663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591239278663" />
+    <state x="362" y="82" width="561" height="524" key="StructurePopup" timestamp="1590975492174">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="82" width="561" height="524" key="StructurePopup/0.0.1280.680@0.0.1280.680" timestamp="1590975492174" />
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1591099163290">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1591099163290" />
+    <state x="28" y="0" key="new project wizard" timestamp="1591239716682">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591239716682" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1591023883028">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1591023883028" />
+  </component>
+</project>

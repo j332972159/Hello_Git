@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spirng-boot-scheduler
+  task:
+    execution:
+      pool:
+        max-threads: 16
+        queue-capacity: 100
+        keep-alive: 10s
+

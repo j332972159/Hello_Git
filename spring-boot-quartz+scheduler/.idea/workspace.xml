@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="884e4597-cbc3-434c-9868-b9d97c7b5382" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="file://$PROJECT_DIR$/spring-boot-quartz-cluster/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h85lxkPj7vbMYXAqtd1ThVMRuk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mavenDemo02" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884e4597-cbc3-434c-9868-b9d97c7b5382" name="Default Changelist" comment="" />
+      <created>1599380033968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599380033968</updated>
+      <workItem from="1599380036052" duration="1429000" />
+      <workItem from="1599402060718" duration="521000" />
+      <workItem from="1599402679334" duration="3822000" />
+      <workItem from="1599468771556" duration="1235000" />
+      <workItem from="1599470107092" duration="641000" />
+      <workItem from="1599703573745" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599402987531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1599402987531" />
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1599468981258">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="22" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1599468981258" />
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1599703676253">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599703676253" />
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom" timestamp="1599470013934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599470013934" />
+    <state width="1237" height="155" key="GridCell.Tab.0.center" timestamp="1599470013933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599470013933" />
+    <state width="1237" height="155" key="GridCell.Tab.0.left" timestamp="1599470013933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599470013933" />
+    <state width="1237" height="155" key="GridCell.Tab.0.right" timestamp="1599470013933">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599470013933" />
+    <state x="288" y="44" width="706" height="592" key="NewModule_or_Project.wizard" timestamp="1599466071108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="288" y="44" width="706" height="592" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1599466071108" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1599469937426">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599469937426" />
+    <state x="28" y="45" key="new project wizard" timestamp="1599403281203">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599403281203" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1599469819108">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1599469819108" />
+  </component>
+</project>

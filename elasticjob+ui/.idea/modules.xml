@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elasticjob-lite-executor/elasticjob-lite-executor.iml" filepath="$PROJECT_DIR$/elasticjob-lite-executor/elasticjob-lite-executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticjob-lite-ui-backend/elasticjob-lite-ui-backend.iml" filepath="$PROJECT_DIR$/elasticjob-lite-ui-backend/elasticjob-lite-ui-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticjob.iml" filepath="$PROJECT_DIR$/spring-boot-elasticjob.iml" />
+    </modules>
+  </component>
+</project>

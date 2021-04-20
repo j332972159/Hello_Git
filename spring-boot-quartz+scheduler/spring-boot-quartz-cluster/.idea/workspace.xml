@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4beec38f-042f-454e-9134-eab95b4eb841" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h6dKLYJStB3mHlz4jqOaScuoKk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/db" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/worker/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.newtouch.springboot.examples" />
+      <recent name="com.newtouch.springboot.examples.service" />
+      <recent name="com.newtouch.springboot.examples.worker.configs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/newtouch/springboot/examples/config" />
+      <recent name="$PROJECT_DIR$/worker/src/main/java/com/newtouch/springboot/examples/worker" />
+      <recent name="$PROJECT_DIR$/worker/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuartzClusterApplication">
+    <configuration name="QuartzClusterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.QuartzClusterApplication" />
+      <module name="spring-boot-quartz-cluster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzClusterApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.QuartzClusterApplication2" />
+      <module name="spring-boot-quartz-cluster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzClusterApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.QuartzClusterApplication2" />
+      <module name="spring-boot-quartz-cluster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzClusterApplication3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.QuartzClusterApplication3" />
+      <module name="spring-boot-quartz-cluster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupervisorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.supervisor.SupervisorApp" />
+      <module name="supervisor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.supervisor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuartzClusterApplication3" />
+        <item itemvalue="Application.QuartzClusterApplication" />
+        <item itemvalue="Application.QuartzClusterApplication2" />
+        <item itemvalue="Application.QuartzClusterApplication2" />
+        <item itemvalue="Application.SupervisorApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4beec38f-042f-454e-9134-eab95b4eb841" name="Default Changelist" comment="" />
+      <created>1599335410111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599335410111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599342627641">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="479" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/43.0.1397.900@43.0.1397.900" timestamp="1599342627641" />
+    <state x="97" y="54" width="1289" height="792" maximized="true" key="DiffContextDialog" timestamp="1599341276053">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="97" y="54" width="1289" height="792" maximized="true" key="DiffContextDialog/43.0.1397.900@43.0.1397.900" timestamp="1599341276053" />
+    <state width="944" height="155" key="GridCell.Tab.0.bottom" timestamp="1599376391398">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="155" key="GridCell.Tab.0.bottom/38.0.986.768@38.0.986.768" timestamp="1599376391398" />
+    <state width="1355" height="450" key="GridCell.Tab.0.bottom/43.0.1397.900@43.0.1397.900" timestamp="1599344615135" />
+    <state width="944" height="155" key="GridCell.Tab.0.center" timestamp="1599376391398">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="155" key="GridCell.Tab.0.center/38.0.986.768@38.0.986.768" timestamp="1599376391398" />
+    <state width="1355" height="450" key="GridCell.Tab.0.center/43.0.1397.900@43.0.1397.900" timestamp="1599344615135" />
+    <state width="944" height="155" key="GridCell.Tab.0.left" timestamp="1599376391398">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="155" key="GridCell.Tab.0.left/38.0.986.768@38.0.986.768" timestamp="1599376391398" />
+    <state width="1355" height="450" key="GridCell.Tab.0.left/43.0.1397.900@43.0.1397.900" timestamp="1599344615134" />
+    <state width="944" height="155" key="GridCell.Tab.0.right" timestamp="1599376391398">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="155" key="GridCell.Tab.0.right/38.0.986.768@38.0.986.768" timestamp="1599376391398" />
+    <state width="1355" height="450" key="GridCell.Tab.0.right/43.0.1397.900@43.0.1397.900" timestamp="1599344615135" />
+    <state x="279" y="112" key="Maven.ArtifactSearchDialog" timestamp="1599338724076">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="279" y="112" key="Maven.ArtifactSearchDialog/43.0.1397.900@43.0.1397.900" timestamp="1599338724076" />
+    <state x="243" y="89" key="SettingsEditor" timestamp="1599335770720">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="243" y="89" key="SettingsEditor/43.0.1397.900@43.0.1397.900" timestamp="1599335770720" />
+    <state x="143" y="100" width="1197" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599343657840">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="143" y="100" width="1197" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/43.0.1397.900@43.0.1397.900" timestamp="1599343657840" />
+    <state x="143" y="100" width="1197" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599341677459">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="143" y="100" width="1197" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/43.0.1397.900@43.0.1397.900" timestamp="1599341677459" />
+    <state x="438" y="207" width="630" height="486" key="find.popup" timestamp="1599343792294">
+      <screen x="43" y="0" width="1397" height="900" />
+    </state>
+    <state x="438" y="207" width="630" height="486" key="find.popup/43.0.1397.900@43.0.1397.900" timestamp="1599343792294" />
+  </component>
+</project>

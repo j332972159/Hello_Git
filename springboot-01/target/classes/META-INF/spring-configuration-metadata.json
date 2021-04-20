@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.pccc.bean.Person",
+      "sourceType": "com.pccc.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.pccc.bean.Dog",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.list",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.pccc.bean.Person"
+    },
+    {
+      "name": "person.map",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.pccc.bean.Person"
+    }
+  ],
+  "hints": []
+}
