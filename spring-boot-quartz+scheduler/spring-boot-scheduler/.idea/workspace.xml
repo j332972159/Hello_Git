@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30f22d02-93c5-46c6-9e63-87658a1b5457" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1h5SyyJDPSoL1RpHGTjzg1zaS2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SchedulerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.springboot.examples.SchedulerApplication" />
+      <module name="spring-boot-scheduler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.springboot.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SchedulerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30f22d02-93c5-46c6-9e63-87658a1b5457" name="Default Changelist" comment="" />
+      <created>1599299717019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599299717019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="944" height="256" key="GridCell.Tab.0.bottom" timestamp="1599374695068">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="256" key="GridCell.Tab.0.bottom/38.0.986.768@38.0.986.768" timestamp="1599374695068" />
+    <state width="944" height="256" key="GridCell.Tab.0.center" timestamp="1599374695067">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="256" key="GridCell.Tab.0.center/38.0.986.768@38.0.986.768" timestamp="1599374695067" />
+    <state width="944" height="256" key="GridCell.Tab.0.left" timestamp="1599374695066">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="256" key="GridCell.Tab.0.left/38.0.986.768@38.0.986.768" timestamp="1599374695066" />
+    <state width="944" height="256" key="GridCell.Tab.0.right" timestamp="1599374695067">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="256" key="GridCell.Tab.0.right/38.0.986.768@38.0.986.768" timestamp="1599374695067" />
+  </component>
+</project>

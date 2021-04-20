@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb2bda78-b958-43ce-99b8-de49ab87a705" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1024" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectId" id="1h2aw4p4ujSgwJdHzJMQwKdKjqm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552206915093" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin-client/src/main/resources" />
+      <recent name="$PROJECT_DIR$/admin-server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin-server/src/main/java/admin" />
+      <recent name="$PROJECT_DIR$/admin-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/admin-server/src/main/java" />
+      <recent name="$PROJECT_DIR$/admin-server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootstrapApplication">
+    <configuration name="AdminBootstrapApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.train.admin.server.AdminBootstrapApplication" />
+      <module name="spring-boot-admin-server-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.train.admin.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBootstrapApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.admin.client.examples.ClientBootstrapApplication" />
+      <module name="spring-boot-admin-client-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.admin.client.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAdminApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.train.admin.SpringBootAdminApplication" />
+      <module name="admin-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.train.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.newtouch.train.client.SpringBootClientApplication" />
+      <module name="admin-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.newtouch.train.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootstrapApplication" />
+        <item itemvalue="Application.AdminBootstrapApplication" />
+        <item itemvalue="Application.SpringBootClientApplication" />
+        <item itemvalue="Application.SpringBootAdminApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb2bda78-b958-43ce-99b8-de49ab87a705" name="Default Changelist" comment="" />
+      <created>1552204613737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552204613737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="31" key="#Project_Structure" timestamp="1599212542755">
+      <screen x="40" y="0" width="1400" height="900" />
+    </state>
+    <state x="228" y="31" key="#Project_Structure/40.0.1400.900@40.0.1400.900" timestamp="1599212542755" />
+    <state width="944" height="200" key="GridCell.Tab.0.bottom" timestamp="1599363898575">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="200" key="GridCell.Tab.0.bottom/38.0.986.768@38.0.986.768" timestamp="1599363898575" />
+    <state width="1358" height="417" key="GridCell.Tab.0.bottom/40.0.1400.900@40.0.1400.900" timestamp="1599214195698" />
+    <state width="1355" height="417" key="GridCell.Tab.0.bottom/43.0.1397.900@43.0.1397.900" timestamp="1599298070560" />
+    <state width="944" height="200" key="GridCell.Tab.0.center" timestamp="1599363898574">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="200" key="GridCell.Tab.0.center/38.0.986.768@38.0.986.768" timestamp="1599363898574" />
+    <state width="1358" height="417" key="GridCell.Tab.0.center/40.0.1400.900@40.0.1400.900" timestamp="1599214195697" />
+    <state width="1355" height="417" key="GridCell.Tab.0.center/43.0.1397.900@43.0.1397.900" timestamp="1599298070559" />
+    <state width="944" height="200" key="GridCell.Tab.0.left" timestamp="1599363898574">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="200" key="GridCell.Tab.0.left/38.0.986.768@38.0.986.768" timestamp="1599363898574" />
+    <state width="1358" height="417" key="GridCell.Tab.0.left/40.0.1400.900@40.0.1400.900" timestamp="1599214195697" />
+    <state width="1355" height="417" key="GridCell.Tab.0.left/43.0.1397.900@43.0.1397.900" timestamp="1599298070559" />
+    <state width="944" height="200" key="GridCell.Tab.0.right" timestamp="1599363898575">
+      <screen x="38" y="0" width="986" height="768" />
+    </state>
+    <state width="944" height="200" key="GridCell.Tab.0.right/38.0.986.768@38.0.986.768" timestamp="1599363898575" />
+    <state width="1358" height="417" key="GridCell.Tab.0.right/40.0.1400.900@40.0.1400.900" timestamp="1599214195697" />
+    <state width="1355" height="417" key="GridCell.Tab.0.right/43.0.1397.900@43.0.1397.900" timestamp="1599298070560" />
+  </component>
+</project>
